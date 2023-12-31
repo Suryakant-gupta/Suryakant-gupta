@@ -1,5 +1,16 @@
 # 💫 About Me:
-I,m currently working on my skills<br>I am looking for a job for web developer profile<br>I am currently learning Next.js and php<br>
+
+
+
+# 👋 Hey there, I'm Suryakant Gupta!
+
+🎓 Recent BTech(IT) graduate diving headfirst into the world of tech. I thrive on challenges and love to code solutions that bring ideas to life. As a passionate Full Stack MERN (MongoDB, Express.js, React, Node.js) developer, I'm constantly exploring the ever-evolving landscape of web development.
+
+🚀 Although I'm a fresher, my dedication to learning and crafting efficient, scalable applications sets me apart. From designing intuitive user interfaces to diving into the intricacies of backend development, I'm excited to contribute and collaborate on innovative projects.
+
+💻 My toolbox includes proficiency in HTML, CSS, JavaScript, and a keen understanding of MERN stack technologies. I'm eager to expand my skills and delve deeper into the realms of software development.
+
+🌟 Let's connect, collaborate, and create remarkable digital experiences together!
 
 
 ## 🌐 Socials:
