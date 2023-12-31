@@ -2,7 +2,7 @@
 
 
 
-# 👋 Hey there, I'm Suryakant Gupta!
+![Profile Image]([https://raw.githubusercontent.com/your-username/suryakant-gupta-images/main/your-image.png](https://github.com/Suryakant-gupta/suryakant-gupta-images/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png))
 
 🎓 Recent BTech(IT) graduate diving headfirst into the world of tech. I thrive on challenges and love to code solutions that bring ideas to life. As a passionate Full Stack MERN (MongoDB, Express.js, React, Node.js) developer, I'm constantly exploring the ever-evolving landscape of web development.
 
